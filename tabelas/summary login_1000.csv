@@ -1,0 +1,6 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+https://petstore.octoperf.com/actions/Account.action?signonForm=,1000,1123,1009,1900,68.08,0.000%,365.09675,1659.32,186.47,4654.0
+https://petstore.octoperf.com/actions/Account.action,1000,511,489,634,8.12,0.000%,433.83948,2301.38,628.30,5432.0
+https://petstore.octoperf.com/actions/Account.action?signoff=,1000,587,495,711,44.52,0.000%,433.08792,2232.26,480.88,5278.0
+Test,1000,2221,2010,3059,76.42,0.000%,31.83294,477.62,97.71,15364.0
+TOTAL,4000,1110,489,3059,685.54,0.000%,127.33176,955.23,195.41,7682.0
