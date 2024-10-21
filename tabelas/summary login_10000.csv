@@ -1,0 +1,6 @@
+Rótulo,# Amostras,Média,Mín.,Máx.,Desvio Padrão,% de Erro,Vazão,KB/s,Sent KB/sec,Média de Bytes
+https://petstore.octoperf.com/actions/Account.action?signonForm=,10000,77709,1111,1025631,63587.82,45.140%,9.65167,36.41,2.70,3862.7
+https://petstore.octoperf.com/actions/Account.action,10000,9841,493,196489,17520.70,0.200%,8.60165,46.04,12.40,5480.7
+https://petstore.octoperf.com/actions/Account.action?signoff=,10000,9894,491,1042250,82733.85,1.940%,8.59590,43.94,9.36,5234.5
+Test,10000,97445,2526,1157874,105255.93,47.080%,8.35834,118.99,23.49,14577.8
+TOTAL,40000,48722,491,1157874,84420.96,23.590%,33.43335,237.98,46.98,7288.9
