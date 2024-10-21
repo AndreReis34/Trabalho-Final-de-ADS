@@ -1,0 +1,12 @@
+Rótulo,# Amostras,Média,Mín.,Máx.,Desvio Padrão,% de Erro,Vazão,KB/s,Sent KB/sec,Média de Bytes
+https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH,5000,115138,1143,131345,29711.35,77.960%,37.31288,119.48,4.34,3278.9
+https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FI-SW-01,5000,57647,255,131215,55937.96,31.420%,19.01907,75.19,7.13,4048.3
+https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&workingItemId=EST-1,5000,8963,246,131174,27894.30,3.840%,12.71433,59.47,6.93,4789.7
+https://petstore.octoperf.com/actions/Order.action?newOrderForm=,10000,588,246,131000,5941.07,0.210%,18.15983,87.62,10.18,4941.0
+https://petstore.octoperf.com/actions/Account.action,5000,533,491,2416,94.76,0.000%,9.53185,50.57,13.80,5432.2
+https://petstore.octoperf.com/actions/Cart.action?viewCart=,5000,267,247,2813,57.56,0.000%,9.53891,45.17,5.32,4848.6
+https://petstore.octoperf.com/actions/Order.action,5000,262,246,1893,34.52,0.000%,9.54131,44.95,11.48,4824.0
+https://petstore.octoperf.com/actions/Order.action?newOrder=&confirmed=true,5000,459,247,2262,158.84,64.360%,9.53940,110.70,5.47,11883.2
+https://petstore.octoperf.com/actions/Account.action?signoff=,5000,1741,490,131164,10953.57,0.520%,9.53349,49.02,10.53,5265.6
+Test,5000,186193,4814,526703,89714.24,88.420%,8.46981,448.74,59.66,54252.5
+TOTAL,55000,33853,246,526703,68593.35,24.267%,93.16791,897.48,119.33,9864.1
